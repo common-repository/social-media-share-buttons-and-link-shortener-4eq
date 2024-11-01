@@ -1,0 +1,81 @@
+#shareiconsaeed{display:none;}
+.fa {
+ 
+ 
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50% !important;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook.smsbals4 {
+ font-size: 30px;
+  background: #3B5998;
+  color: white;
+   padding: 20px;
+}
+
+.fa-twitter.smsbals4 {
+ font-size: 30px;
+  background: #55ACEE;
+  color: white;
+   padding: 20px;
+}
+
+.fa-google.smsbals4 {
+ font-size: 30px;
+  background: #dd4b39;
+  color: white;
+   padding: 20px;
+}
+
+.fa-linkedin.smsbals4 {
+ font-size: 30px;
+  background: #007bb5;
+  color: white;
+   padding: 20px;
+}
+
+.fa-telegram.smsbals4 {
+ font-size: 30px;
+  background: #55ACEE;
+  color: white;
+   padding: 20px;
+}
+
+.fa-whatsapp.smsbals4 { 
+font-size: 30px;
+  background: green;
+  color: white;
+   padding: 20px;
+}
+.fa-share-alt.smsbals4 {
+ font-size: 30px;
+  background:blue;
+  color: white;
+   padding: 20px;
+     text-decoration: none;
+
+}
+.fa-close.smsbals4{
+ font-size: 30px;
+  background:red ;
+  color:white;
+   padding: 20px;
+}
+#shareiconsaeedolesh {
+  overflow: hidden;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+ left:0px;
+  z-index:999;
+
+}
+a.fa{
+  text-decoration: none  !important;
+}
